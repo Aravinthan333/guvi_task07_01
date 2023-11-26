@@ -123,7 +123,7 @@ main {
     display: none;
   }
   .main {
-    background-color: rgb(7, 210, 143);
+    /* background-color: rgb(7, 210, 143);*/
     height: 80vh;
     width: 100%;
     display: flex;
@@ -136,7 +136,7 @@ main {
     display: none;
   }
   .main {
-    background-color: rgb(91, 20, 223);
+    /*background-color: rgb(91, 20, 223);*/
     min-height: 80vh;
     max-width: 100%;
     display: flex;
@@ -145,6 +145,7 @@ main {
   }
   .three-idiots {
     flex-wrap: wrap;
+    margin: 15px 0;
   }
 }
 @media (max-width: 500px) {
